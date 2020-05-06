@@ -1,6 +1,6 @@
 First aid system lets the administrators to register new emergencies which will send the notifications to the cloesest available first aiders.
 
-This is one of the two developed apps. To test the full system download the mobile app source code from here: 
+This is one of the two developed apps. To test the full system download the mobile app source code from here: https://github.com/juriilmjarv/FirstAidMobilePublic
 
 ## Installing node modules
 
